@@ -1,25 +1,25 @@
 {
-  "name": "mylibrary",
+  "name": "array-switch",
   "version": "0.0.0",
   "description": "",
-  "source": "src/mylibrary.ts",
-  "main": "dist/mylibrary.js",
-  "module": "dist/mylibrary.mjs",
-  "unpkg": "dist/mylibrary.umd.js",
+  "source": "src/array-switch.ts",
+  "main": "dist/array-switch.js",
+  "module": "dist/array-switch.mjs",
+  "unpkg": "dist/array-switch.umd.js",
   "scripts": {
     "build": "microbundle --no-sourcemap",
     "dev": "microbundle watch --no-sourcemap"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gnlow/mylibrary.git"
+    "url": "git+https://github.com/gnlow/array-switch.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gnlow/mylibrary/issues"
+    "url": "https://github.com/gnlow/array-switch/issues"
   },
-  "homepage": "https://github.com/gnlow/mylibrary#readme",
+  "homepage": "https://github.com/gnlow/array-switch#readme",
   "devDependencies": {
     "microbundle": "^0.12.0-next.6"
   }

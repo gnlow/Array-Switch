@@ -1,4 +1,4 @@
-# mylibrary
+# array-switch
 Description
 ```js
 
@@ -6,14 +6,14 @@ Description
 ## Installation
 ### NPM
 ```bash
-npm install mylibrary
+npm install array-switch
 ```
 ```js
-const mylibrary = require("mylibrary");
+const array-switch = require("array-switch");
 ```
 ### CDN
 ```html
-<script src="https://unpkg.com/browse/mylibrary/dist/mylibrary.umd.js"></script>
+<script src="https://unpkg.com/browse/array-switch/dist/array-switch.umd.js"></script>
 ```
 ## How To Use
 ```js
