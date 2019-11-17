@@ -15,7 +15,7 @@ console.log(line5.data);
 npm install array-switch
 ```
 ```js
-const array-switch = require("array-switch");
+const Switchable = require("array-switch");
 ```
 ### CDN
 ```html
