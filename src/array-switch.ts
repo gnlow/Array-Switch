@@ -1,4 +1,4 @@
-class Switchable {
+export default class Switchable {
     head: any[];
     branches: Switchable[];
     branchNumber: number;
