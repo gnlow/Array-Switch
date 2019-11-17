@@ -81,12 +81,3 @@ class Switchable {
         this.branchNumber = branchNumber;
     }
 }
-
-var a = new Switchable(["1", "2", "3", "4"]);
-
-a.stick(2, ["1b"])
-//a.change(2, "AA")
-//a.data = [1,2,3]
-a.select(2).switch(1);
-console.log(a);
-console.log(a.data);
