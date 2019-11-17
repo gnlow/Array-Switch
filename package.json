@@ -1,7 +1,7 @@
 {
   "name": "array-switch",
   "version": "0.0.0",
-  "description": "",
+  "description": "Branch and switch the array!",
   "source": "src/array-switch.ts",
   "main": "dist/array-switch.js",
   "module": "dist/array-switch.mjs",
